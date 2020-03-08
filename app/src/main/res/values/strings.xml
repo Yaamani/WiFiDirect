@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">WiFiDirect</string>
+    <string name="turn_wifi_on">Turn WiFi On</string>
+    <string name="turn_wifi_off">Turn WiFi Off</string>
+    <string name="wifi_on">WiFi On</string>
+    <string name="wifi_off">WiFi Off</string>
+    <string name="wifi_discover">Discover</string>
+    <string name="wifi">WiFi</string>
+    <string name="send">Send</string>
+    <string name="message">Message</string>
+    <string name="connection_status">Connection Status</string>
+    <string name="discovery_started">Discovery Started</string>
+    <string name="attempting_to_start_discovery">Attempting To Start Discovery</string>
+    <string name="attempting_to_connect">Attempting To Connect</string>
+    <string name="discovery_starting_failed">Discovery Starting Failed</string>
+    <string name="discovery_stopped">Discovery Stopped</string>
+    <string name="no_devices_found">No devices found</string>
+    <string name="connection_failed">Connection Failed</string>
+    <string name="host">Host</string>
+    <string name="client">Client</string>
+    <string name="no_connection">No Connection</string>
+</resources>

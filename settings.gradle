@@ -1,0 +1,3 @@
+rootProject.name='WiFiDirect'
+include ':app', ':opencv'
+project(':opencv').projectDir = new File('/Users/mac/Desktop/College/Microprocessor2/OpenCV-android-sdk/sdk')

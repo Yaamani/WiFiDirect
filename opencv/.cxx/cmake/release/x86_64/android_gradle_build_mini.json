@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "/Users/mac/Library/Android/sdk/ndk/21.0.6113669/build/cmake/platforms.cmake",
+    "/Users/mac/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
+    "/Users/mac/Desktop/College/Microprocessor2/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/mac/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/mac/Desktop/College/Microprocessor2/OpenCV-android-sdk/sdk/.cxx/cmake/release/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/Users/mac/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/mac/Desktop/College/Microprocessor2/OpenCV-android-sdk/sdk/.cxx/cmake/release/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "opencv_jni_shared-Release-x86_64": {
+      "artifactName": "opencv_jni_shared",
+      "buildCommand": "/Users/mac/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/mac/Desktop/College/Microprocessor2/OpenCV-android-sdk/sdk/.cxx/cmake/release/x86_64\" opencv_jni_shared",
+      "abi": "x86_64",
+      "output": "/Users/mac/Desktop/College/Microprocessor2/OpenCV-android-sdk/sdk/.cxx/cmake/release/x86_64/libopencv_jni_shared.a"
+    }
+  }
+}
